@@ -1,5 +1,5 @@
 alert ("Seja bem vindo ao Treinamento de Logica de Programação da Solutis");
-let numeroMaximo = 100;
+let numeroMaximo = 50;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 console.log(numeroSecreto);
 let chute;
